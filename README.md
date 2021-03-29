@@ -1,5 +1,8 @@
 ## Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation
-### Reference https://arxiv.org/abs/1406.1078 & https://github.com/bentrevett/pytorch-seq2seq
+
+### Project on implementing sequence-to-sequence (seq2seq) models with PyTorch and TorchText. Hands-on for create custom model, training and validation loops.
+Reference https://arxiv.org/abs/1406.1078 & https://github.com/bentrevett/pytorch-seq2seq
+
 ![demo](seq2seq.png)
 
 ### Model Implementation
