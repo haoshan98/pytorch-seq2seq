@@ -190,17 +190,8 @@ def main():
     test_res, test_pred_outputs = valid_fn(model, test_iterator, criterion, DEVICE, epoch=0)    
     translate(test_pred_outputs, n_batch=2, n_sent=3)
 
-
-
-    
+ 
 if __name__ == "__main__":
     main()
-
-"""
-
-"""
-
-
-    
 
 
